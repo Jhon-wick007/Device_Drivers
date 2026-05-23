@@ -1,0 +1,1 @@
+savedcmd_/home/jana/device_drivers/Device_Drivers/read_write.mod := printf '%s\n'   read_write.o | awk '!x[$$0]++ { print("/home/jana/device_drivers/Device_Drivers/"$$0) }' > /home/jana/device_drivers/Device_Drivers/read_write.mod

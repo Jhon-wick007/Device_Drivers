@@ -1,0 +1,1 @@
+savedcmd_/home/jana/device_drivers/Device_Drivers/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/jana/device_drivers/Device_Drivers/Module.symvers -T /home/jana/device_drivers/Device_Drivers/modules.order -i Module.symvers -e 
